@@ -1,5 +1,5 @@
 # Python-Tools
-Various Tools Developed using Python with GUI
+Various Tools Developed using Python with Graphics User Interface using Tkinter Module.
 
 # Requirements:
 <p> Tkinter Module - pip install tkinter </p>
